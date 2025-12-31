@@ -26,7 +26,7 @@ Sistem ini telah memenuhi seluruh kriteria penilaian UAS PBO SI 2025:
 * **Arsitektur**: Model-View-Service Architecture
 
 ## ⚙️ Cara Menjalankan
-1. Import file database `db_koperasi_fkdt.sql` ke MySQL server Anda.
+1. Download file `db_koperasi_fkdt.sql` dari repository ini dan import ke MySQL server Anda.
 2. Pastikan koneksi database di `database/Config.java` sudah sesuai dengan kredensial MySQL lokal Anda.
 3. Jalankan file `Main.java` sebagai *entry point* aplikasi.
 4. **Kredensial Default Admin**:
